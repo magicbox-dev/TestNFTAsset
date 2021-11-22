@@ -1,0 +1,11 @@
+{
+  "name": "Sample #7",
+  "description": "Sample",
+  "image": "https://raw.githubusercontent.com/magicbox-dev/TestNFTAsset/SampleNFT/images/1.png",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Orange"
+    }
+  ]
+}

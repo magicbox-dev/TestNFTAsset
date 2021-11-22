@@ -1,0 +1,11 @@
+{
+  "name": "Sample #6",
+  "description": "Sample",
+  "image": "https://raw.githubusercontent.com/magicbox-dev/TestNFTAsset/SampleNFT/images/0.png",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Hoplite"
+    }
+  ]
+}
